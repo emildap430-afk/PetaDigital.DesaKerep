@@ -148,7 +148,7 @@ export const potensiList: PotentialData[] = [
     id: "pertanian",
     title: "Potensi Pertanian Desa Kerep",
     subtitle: "Pertanian",
-    image: "/assets/images/pertanian.jpeg",
+    image: "/assets/images/Pertanian.jpeg",
     description: "Mayoritas mata pencaharian masyarakat Desa Kerep adalah petani padi dan palawija dengan hamparan persawahan subur yang terbentang di ketiga dusun.",
     fullDescription: "Sektor pertanian merupakan tulang punggung perekonomian utama masyarakat Desa Kerep. Didukung oleh sistem irigasi teknis dan tanah vulkanik yang subur, lahan persawahan desa menghasilkan komoditas padi berkualitas tinggi serta berbagai tanaman hortikultura seperti cabai merah, tomat, jagung, dan aneka sayuran segar.",
     lokasi: "Dusun Kerep, Dusun Balongasem, Dusun Cabak Banjarsari",
