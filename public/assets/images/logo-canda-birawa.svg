@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <!-- Outer Shield Border -->
+  <path d="M 10 10 L 190 10 L 190 130 C 190 190 100 230 100 230 C 100 230 10 190 10 130 Z" fill="#00a8e8" stroke="#000000" stroke-width="8" stroke-linejoin="round" />
+  
+  <!-- Lower Green Ground -->
+  <path d="M 14 100 L 186 100 L 186 130 C 186 186 100 224 100 224 C 100 224 14 186 14 130 Z" fill="#7cb342" />
+
+  <!-- Central Vertical River (Blue with white waves) -->
+  <rect x="85" y="75" width="30" height="145" fill="#1565c0" />
+  <path d="M 90 80 Q 95 90 90 100 T 90 120 T 90 140 T 90 160 T 90 180 T 90 200" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.8" />
+  <path d="M 100 80 Q 105 90 100 100 T 100 120 T 100 140 T 100 160 T 100 180 T 100 200" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.8" />
+  <path d="M 110 80 Q 115 90 110 100 T 110 120 T 110 140 T 110 160 T 110 180 T 110 200" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.8" />
+
+  <!-- Black Mountain with Red Triangle -->
+  <polygon points="100,35 45,80 155,80" fill="#1c1c1c" />
+  <polygon points="100,52 85,75 115,75" fill="#e53935" stroke="#ffffff" stroke-width="1" />
+
+  <!-- Top Yellow Five-pointed Star -->
+  <polygon points="100,16 104,26 115,26 106,33 109,43 100,37 91,43 94,33 85,26 96,26" fill="#fbc02d" stroke="#f57f17" stroke-width="1" />
+
+  <!-- Rice Stalk (Padi - Left Side) -->
+  <path d="M 68,185 C 45,160 35,120 50,80" fill="none" stroke="#fbc02d" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="50" cy="80" rx="6" ry="3" fill="#fbc02d" transform="rotate(-30 50 80)" />
+  <ellipse cx="44" cy="95" rx="6" ry="3" fill="#fbc02d" transform="rotate(-30 44 95)" />
+  <ellipse cx="42" cy="110" rx="6" ry="3" fill="#fbc02d" transform="rotate(-30 42 110)" />
+  <ellipse cx="44" cy="125" rx="6" ry="3" fill="#fbc02d" transform="rotate(-30 44 125)" />
+  <ellipse cx="48" cy="140" rx="6" ry="3" fill="#fbc02d" transform="rotate(-30 48 140)" />
+  <ellipse cx="54" cy="155" rx="6" ry="3" fill="#fbc02d" transform="rotate(-30 54 155)" />
+  <ellipse cx="62" cy="170" rx="6" ry="3" fill="#fbc02d" transform="rotate(-30 62 170)" />
+
+  <!-- Cotton Stalk (Kapas - Right Side) -->
+  <path d="M 132,185 C 155,160 165,120 150,80" fill="none" stroke="#388e3c" stroke-width="3" stroke-linecap="round" />
+  <g><circle cx="150" cy="80" r="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/><path d="M 145 84 Q 150 88 155 84" fill="#388e3c"/></g>
+  <g><circle cx="156" cy="95" r="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/><path d="M 151 99 Q 156 103 161 99" fill="#388e3c"/></g>
+  <g><circle cx="158" cy="110" r="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/><path d="M 153 114 Q 158 118 163 114" fill="#388e3c"/></g>
+  <g><circle cx="156" cy="125" r="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/><path d="M 151 129 Q 156 133 161 129" fill="#388e3c"/></g>
+  <g><circle cx="152" cy="140" r="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/><path d="M 147 144 Q 152 148 157 144" fill="#388e3c"/></g>
+  <g><circle cx="146" cy="155" r="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/><path d="M 141 159 Q 146 163 151 159" fill="#388e3c"/></g>
+  <g><circle cx="138" cy="170" r="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/><path d="M 133 174 Q 138 178 143 174" fill="#388e3c"/></g>
+
+  <!-- Center Sitting Ganesha Figure (Canda Bhirawa) -->
+  <g transform="translate(100, 138) scale(0.85)">
+    <ellipse cx="0" cy="25" rx="22" ry="7" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <path d="M -16 15 C -22 20 -15 26 0 26 C 15 26 22 20 16 15 Z" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <path d="M -12 -5 Q -18 5 -12 15 L 12 15 Q 18 5 12 -5 Z" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <path d="M -14 -2 Q -25 -10 -20 -20" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <path d="M 14 -2 Q 25 -10 20 -20" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <path d="M -14 5 Q -24 15 -18 20" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <path d="M 14 5 Q 24 15 18 20" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <circle cx="0" cy="-12" r="10" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <polygon points="0,-28 -7,-18 7,-18" fill="#fbc02d" stroke="#000000" stroke-width="1.5" />
+    <path d="M 0 -8 Q -8 -2 -6 8 Q -4 14 2 12" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round" />
+    <ellipse cx="-11" cy="-12" rx="4" ry="6" fill="#ffffff" stroke="#000000" stroke-width="1.5" />
+    <ellipse cx="11" cy="-12" rx="4" ry="6" fill="#ffffff" stroke="#000000" stroke-width="1.5" />
+  </g>
+
+  <!-- Ribbon at Bottom with Text CANDA BIRAWA -->
+  <g transform="translate(0, 10)">
+    <path d="M 36 182 Q 100 204 164 182 L 158 198 Q 100 220 42 198 Z" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <path d="M 26 191 L 38 183 L 39 199 Z" fill="#e0e0e0" stroke="#000000" stroke-width="1" />
+    <path d="M 174 191 L 162 183 L 161 199 Z" fill="#e0e0e0" stroke="#000000" stroke-width="1" />
+    <text x="100" y="196" font-family="'Arial Black', Impact, sans-serif" font-weight="900" font-size="11" fill="#000000" text-anchor="middle" letter-spacing="1">CANDA BIRAWA</text>
+  </g>
+</svg>

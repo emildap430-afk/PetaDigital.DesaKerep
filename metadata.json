@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Peta Desa Kerep Tarokan",
+  "description": "Website Peta Digital Desa Kerep, Kecamatan Tarokan, Kabupaten Kediri",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
